@@ -33,7 +33,7 @@ h1 {
 
 .row {
   width: 100%;
-  display: inline-block;
+  display: block;
 }
 
 input[type=text]{
@@ -48,6 +48,7 @@ input[type=text]{
 
 input[type=button]{
   position: relative;
+  display: inline-block;
   background-color: #b3b3b3;
   width: 20%;
   margin: 2%;
