@@ -1,7 +1,7 @@
-/** {
+* {
   padding: 0px;
   margin: 0px;
-}*/
+}
 
 html {
   background-color: #42aaf4;
@@ -15,9 +15,11 @@ h1 {
 }
 
 p {
-  width: 100%;
+  width: 300px;
   display: inline;
+  margin: 10px auto 0px auto;
 }
+
 
 h1 {
   text-align: center;
@@ -50,7 +52,7 @@ input[type=button]{
   position: relative;
   background-color: #b3b3b3;
   width: 19%;
-  margin: 2%;
+  margin: 2.5%;
   font-size: 1.5em;
   font-weight: bold;
   border-radius: 10%;
